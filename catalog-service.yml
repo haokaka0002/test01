@@ -1,5 +1,4 @@
 
-
   datasource:
     url: jdbc:sqlserver://localhost:1433;databaseName=chinook_catalog;encrypt=false
     username: sa
